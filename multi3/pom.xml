@@ -4,7 +4,7 @@
     <parent>
         <groupId>com.jfrogchina.demo</groupId>
         <artifactId>Swampup</artifactId>
-        <version>-BUILD_NUMBER-.SNAPSHOT</version>
+        <version>-BUILD_NUMBER--SNAPSHOT</version>
     </parent>
 
     <artifactId>multi3</artifactId>
