@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.jfrogchina.demo</groupId>
     <artifactId>Swampup</artifactId>
-    <version>7.0.-BUILD_NUMBER-.SNAPSHOT</version>
+    <version>-BUILD_NUMBER-.SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Simple Multi Modules Build</name>
 
